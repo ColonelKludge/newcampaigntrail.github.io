@@ -218,7 +218,7 @@ achList = {
     ],
     "Kinder": [
         "A Kinder, Gentler Landslide",
-        "Earn over 500 EVs as Bush in on normal.",
+        "Earn over 500 EVs as Bush on Normal difficulty.",
     ],
     "Rainbow": [
         "The Rainbow Coalition",
